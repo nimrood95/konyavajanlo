@@ -1,0 +1,29 @@
+body{
+    background-image: url(konyv_hatter.jpg);
+    background-size: 500px 500px;
+    background-repeat: repeat;
+}
+.box{
+    margin: auto;
+    background-color: #ca8;
+    width: 720px;
+    border:solid #eca 1px;
+}
+.otlet{
+    width: 120px;
+    margin: auto;
+    float: left;
+}
+#konyv{
+    float: right;
+    width: 102px;
+    height: 102px;
+}
+#h1{
+    text-align: justify;
+}
+.fo-box{
+    background-color: #eca;
+    width: 720px;
+    margin: auto;
+}
